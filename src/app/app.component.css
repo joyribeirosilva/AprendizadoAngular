@@ -1,0 +1,18 @@
+h1{
+   background-color: rgb(37, 35, 36);
+   color: #fff;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+input{
+    display: block;  
+}
+
+.button{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
